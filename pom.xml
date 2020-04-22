@@ -20,7 +20,7 @@
   		<sonar.projectKey>newarts88_papw</sonar.projectKey>
   		<sonar.organization>newarts88</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  		<sonar.login>261fd8867f72fedde2404f510bd634a210f07022</sonar.login>
+  		<sonar.login>db63763de99db3c8b416f9b8a847edf585a7b951</sonar.login>
 
 	</properties>
 
