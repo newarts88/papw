@@ -16,11 +16,10 @@
 	<description>Projeto da disciplina de programação Avançada para web</description>
 
 	<properties>
-		<java.version>1.8</java.version>
-  		<sonar.projectKey>newarts88_papw</sonar.projectKey>
-  		<sonar.organization>newarts88</sonar.organization>
-  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  		<sonar.login>0434a7adf55bdfabb5aace0a6d9787c7b3472f2d</sonar.login>
+  	<sonar.projectKey>newarts88_papw</sonar.projectKey>
+  	<sonar.organization>newarts88</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  	<sonar.login>6d378ef996aa28eca871f02a5ad5e7546ac5471b</sonar.login>
 
 	</properties>
 
