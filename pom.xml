@@ -17,10 +17,10 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.projectKey>newarts88_papw</sonar.projectKey>
+  		<sonar.projectKey>newarts88_papw</sonar.projectKey>
   		<sonar.organization>newarts88</sonar.organization>
- 	 	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  		<sonar.login>e7e11fc37827245507e9351ea17d6be1aabfaa74</sonar.login>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>0434a7adf55bdfabb5aace0a6d9787c7b3472f2d</sonar.login>
 
 	</properties>
 
